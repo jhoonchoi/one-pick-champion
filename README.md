@@ -1,2 +1,4 @@
 # one-pick-champion
-Created with CodeSandbox
+
+asdasd
+a champion recommending web application for league of legends.
